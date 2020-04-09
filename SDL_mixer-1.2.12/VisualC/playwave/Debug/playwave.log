@@ -1,0 +1,2 @@
+﻿playwave.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  playwave.vcxproj -> g:\Project\Duke\xDuke\SDL_mixer-1.2.12\VisualC\playwave\.\Debug\playwave.exe

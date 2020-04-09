@@ -1,0 +1,40 @@
+﻿  a.c
+  cache1d.c
+  host.c
+  list.c
+  memory.c
+  packet.c
+  peer.c
+  protocol.c
+  unix.c
+  win32.c
+  Engine.c
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1604,47): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1604,47): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1756,47): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1756,47): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3184,50): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3184,50): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3189,50): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3189,50): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4541,40): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4541,40): warning C4024: 'qinterpolatedown16': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4997,51): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4997,51): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5012,51): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+  mmulti.c
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5012,51): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(602,1): warning C4005: 'EAGAIN': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h(45): message : see previous definition of 'EAGAIN'
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(603,1): warning C4005: 'EWOULDBLOCK': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h(125): message : see previous definition of 'EWOULDBLOCK'
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(604,1): warning C4005: 'ECONNREFUSED': macro redefinition
+  pragmas.c
+  sdl_driver.c
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h(92): message : see previous definition of 'ECONNREFUSED'
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h(92): message : [Fix this horrible networking mess. Function pointers not happy]
+  Generating Code...
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1167,41): warning C4133: 'function': incompatible types - from '__int64 *' to 'LARGE_INTEGER *'
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1167,41): warning C4133: [Todo: handle -netmode <int>]
+  mmulti_stable.cpp
+  Engine.vcxproj -> G:\Project\Duke\xDuke\Engine\.\ReleaseVC7\Engine.lib

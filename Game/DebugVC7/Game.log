@@ -1,0 +1,86 @@
+﻿  actors.c
+  animlib.c
+  dsl.c
+  ll_man.c
+  multivoc.c
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(290,1): warning C4029: declared formal parameter list different from definition
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(416,4): warning C4090: '=': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3030,38): warning C4090: '=': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3031,38): warning C4090: '=': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3035,7): warning C4090: '=': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3204,22): warning C4133: '=': incompatible types - from 'unsigned char *' to 'double *'
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3315,38): warning C4090: '=': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3316,38): warning C4090: '=': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3368,4): warning C4090: 'function': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3369,4): warning C4090: 'function': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3428,14): warning C4090: 'function': different 'volatile' qualifiers
+  mvreverb.c
+  mv_mix.c
+  nodpmi.c
+  pitch.c
+  user.c
+  config.c
+  console.c
+  control.c
+  cvars.c
+  cvar_defs.c
+  game.c
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3429,14): warning C4090: 'function': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3429,14): warning C4090: Fix the Analog mouse axis issue. Just make a new function for registering them.
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3429,14): warning C4090: Fix the Analog mouse scale issue. Just make a new function for registering them.
+G:\Project\Duke\xDuke\Game\src\audiolib\multivoc.c(3429,14): warning C4090: We probably want this to be some sort of dynamic list at some point
+G:\Project\Duke\xDuke\Game\src\types.h(59,1): warning C4005: 'MAXINT32': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(434): message : see previous definition of 'MAXINT32'
+G:\Project\Duke\xDuke\Game\src\types.h(60,1): warning C4005: 'MININT32': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(435): message : see previous definition of 'MININT32'
+G:\Project\Duke\xDuke\Game\src\types.h(61,1): warning C4005: 'MAXUINT32': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(433): message : see previous definition of 'MAXUINT32'
+G:\Project\Duke\xDuke\Game\src\types.h(64,1): warning C4005: 'MAXINT16': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(430): message : see previous definition of 'MAXINT16'
+G:\Project\Duke\xDuke\Game\src\types.h(65,1): warning C4005: 'MININT16': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(431): message : see previous definition of 'MININT16'
+G:\Project\Duke\xDuke\Game\src\types.h(66,1): warning C4005: 'MAXUINT16': macro redefinition
+  gamedef.c
+  global.c
+  keyboard.c
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message : see previous definition of 'MAXUINT16'
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message : game.c this is So lame
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message :  It's stuck here
+  menues.c
+  Generating Code...
+  Compiling...
+  player.c
+  premap.c
+G:\Project\Duke\xDuke\Game\src\keyboard.c(137,19): warning C4090: 'function': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\keyboard.c(137,19): warning C4090: [Todo: generate file list starting from .\maps]
+  rts.c
+  scriplib.c
+  sector.c
+  sounds.c
+  Generating Code...
+G:\Project\Duke\xDuke\Game\src\premap.c(251,61): warning C4090: 'function': different 'volatile' qualifiers
+G:\Project\Duke\xDuke\Game\src\premap.c(251,61): warning C4090: Why would this ever be -1?
+  fx_man.c
+  win_midiout.cpp
+G:\Project\Duke\xDuke\Game\src\types.h(59,1): warning C4005: 'MAXINT32': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(434): message : see previous definition of 'MAXINT32'
+G:\Project\Duke\xDuke\Game\src\types.h(60,1): warning C4005: 'MININT32': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(435): message : see previous definition of 'MININT32'
+G:\Project\Duke\xDuke\Game\src\types.h(61,1): warning C4005: 'MAXUINT32': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(433): message : see previous definition of 'MAXUINT32'
+G:\Project\Duke\xDuke\Game\src\types.h(64,1): warning C4005: 'MAXINT16': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(430): message : see previous definition of 'MAXINT16'
+G:\Project\Duke\xDuke\Game\src\types.h(65,1): warning C4005: 'MININT16': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(431): message : see previous definition of 'MININT16'
+G:\Project\Duke\xDuke\Game\src\types.h(66,1): warning C4005: 'MAXUINT16': macro redefinition
+  xmidi.cpp
+  Generating Code...
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message : see previous definition of 'MAXUINT16'
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message :  The win_midi code is temp until the SDL midi code functions properly
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message :  STUBBED musdebug
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message :  STUBBED setErrorMessage
+G:\Windows Kits\10\Include\10.0.18362.0\shared\basetsd.h(429): message :  STUBBED init_debugging
+G:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1267,5): warning MSB8012: TargetPath(G:\Project\Duke\xDuke\Game\..\bin\Game.exe) does not match the Linker's OutputFile property value (G:\Project\Duke\xDuke\bin\duke3d_w32d.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+G:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1269,5): warning MSB8012: TargetName(Game) does not match the Linker's OutputFile property value (duke3d_w32d). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+actors.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Game.vcxproj -> G:\Project\Duke\xDuke\Game\..\bin\Game.exe

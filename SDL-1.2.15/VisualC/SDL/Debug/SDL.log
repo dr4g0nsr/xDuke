@@ -1,0 +1,7 @@
+﻿  SDL_events.c
+  SDL_dx5yuv.c
+  Generating Code...
+G:\Visual Studio\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1267,5): warning MSB8012: TargetPath(G:\Project\Duke\xDuke\SDL-1.2.15\VisualC\Debug\SDL.dll) does not match the Linker's OutputFile property value (g:\Project\Duke\xDuke\SDL-1.2.15\VisualC\SDL\Debug\SDL.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+SDL_diskaudio.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library G:\Project\Duke\xDuke\SDL-1.2.15\VisualC\Debug\SDL.lib and object G:\Project\Duke\xDuke\SDL-1.2.15\VisualC\Debug\SDL.exp
+  SDL.vcxproj -> G:\Project\Duke\xDuke\SDL-1.2.15\VisualC\Debug\SDL.dll

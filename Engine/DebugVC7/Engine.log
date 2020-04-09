@@ -1,0 +1,220 @@
+﻿  a.c
+G:\Project\Duke\xDuke\Engine\src\a.c(38,22): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\a.c(39,22): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\a.c(474,15): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\a.c(519,16): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+  cache1d.c
+G:\Project\Duke\xDuke\Engine\src\a.c(563,11): warning C4018: '<': signed/unsigned mismatch
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(60,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(64,40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(68,68): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(72,69): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\cache1d.c(226,7): warning C4013: 'Error' undefined; assuming extern returning int
+  host.c
+  list.c
+  memory.c
+  packet.c
+  peer.c
+G:\Project\Duke\xDuke\Engine\src\cache1d.c(993,22): warning C4013: 'SafeFileExists' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\enet\peer.c(141,99): warning C4267: 'function': conversion from 'size_t' to 'enet_uint16', possible loss of data
+  protocol.c
+G:\Project\Duke\xDuke\Engine\src\enet\peer.c(163,86): warning C4267: 'function': conversion from 'size_t' to 'enet_uint16', possible loss of data
+  unix.c
+  win32.c
+G:\Project\Duke\xDuke\Engine\src\enet\protocol.c(1108,51): warning C4267: '=': conversion from 'size_t' to 'enet_uint8', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\enet\win32.c(74,1): warning C4996: 'gethostbyname': Use getaddrinfo() or GetAddrInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+G:\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(2219): message : see declaration of 'gethostbyname'
+G:\Project\Duke\xDuke\Engine\src\enet\win32.c(92,1): warning C4996: 'gethostbyaddr': Use getnameinfo() or GetNameInfoW() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  Engine.c
+G:\Windows Kits\10\Include\10.0.18362.0\um\winsock2.h(2197): message : see declaration of 'gethostbyaddr'
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(60,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(64,40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(68,68): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(72,69): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1324,40): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1338,23): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1346,20): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1354,39): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1368,22): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1375,19): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1604,47): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1604,47): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1607,50): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1609,50): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1756,47): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1756,47): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1759,50): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1761,50): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1834,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1834,49): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1839,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1839,49): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1852,58): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1876,30): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1876,52): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1922,22): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1938,20): warning C4244: '+=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1964,30): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(1964,52): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2027,22): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2043,20): warning C4244: '+=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2065,31): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2115,41): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2115,63): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2257,75): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2257,103): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2263,63): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2263,91): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2285,35): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2286,35): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2289,34): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2290,34): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2307,18): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2316,49): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2413,53): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2414,53): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2444,57): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2445,59): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2447,59): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2448,61): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2545,36): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2526,16): warning C4101: 'j': unreferenced local variable
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2819,35): warning C4244: '=': conversion from 'long' to 'unsigned short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2820,61): warning C4244: '=': conversion from 'long' to 'unsigned short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2877,17): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2940,39): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(2951,48): warning C4013: 'Error' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3184,50): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3184,50): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3189,50): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3189,50): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3607,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3608,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3640,19): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3665,41): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3675,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3679,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3683,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3687,24): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(3689,23): warning C4244: '=': conversion from 'short' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4047,26): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4462,66): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4463,66): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4511,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4541,40): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4541,40): warning C4024: 'qinterpolatedown16': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4789,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4997,51): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(4997,51): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5012,51): warning C4047: 'function': 'long' differs in levels of indirection from 'long *'
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5012,51): warning C4024: 'qinterpolatedown16short': different types for formal and actual parameter 1
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5021,60): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5022,60): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5067,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5405,26): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5406,26): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5418,26): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5419,26): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5661,46): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5851,38): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5858,38): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5899,56): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5928,57): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(5989,57): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6055,34): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6103,28): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6517,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6534,21): warning C4244: 'function': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6544,20): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6555,18): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6559,20): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6637,30): warning C4244: 'function': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6682,37): warning C4244: 'function': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6721,18): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(6732,16): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7190,49): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7335,29): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7335,57): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7395,53): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7610,52): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7615,52): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7710,43): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7757,42): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7805,43): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7852,42): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7941,34): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(7958,90): warning C4244: 'function': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8092,90): warning C4244: 'function': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8220,27): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8220,54): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8247,38): warning C4244: '=': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8470,45): warning C4244: 'function': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8476,54): warning C4244: '+=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8478,43): warning C4244: '-=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8479,41): warning C4244: '+=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8481,31): warning C4244: '+=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8482,71): warning C4244: '-=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8493,58): warning C4244: '+=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8495,46): warning C4244: '-=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8496,40): warning C4244: '+=': conversion from 'long' to 'short', possible loss of data
+  mmulti.c
+G:\Project\Duke\xDuke\Engine\src\Engine.c(8500,65): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(60,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(64,40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(68,68): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(72,69): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(198,14): warning C4013: 'Error' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(211,52): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(271,16): warning C4013: 'getcrc' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(275,23): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(276,20): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(309,54): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(312,48): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(315,59): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(357,29): warning C4244: '=': conversion from 'short' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(360,14): warning C4013: 'sendpacket' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(495,19): warning C4244: 'return': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(504,44): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(511,18): warning C4244: 'return': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(544,25): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(545,46): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(547,23): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(548,12): warning C4013: 'callcommit' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(602,1): warning C4005: 'EAGAIN': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h(45): message : see previous definition of 'EAGAIN'
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(603,1): warning C4005: 'EWOULDBLOCK': macro redefinition
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h(125): message : see previous definition of 'EWOULDBLOCK'
+G:\Project\Duke\xDuke\Engine\src\mmulti.c(604,1): warning C4005: 'ECONNREFUSED': macro redefinition
+  pragmas.c
+G:\Windows Kits\10\Include\10.0.18362.0\ucrt\errno.h(92): message : see previous definition of 'ECONNREFUSED'
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(60,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(64,40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(68,68): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  sdl_driver.c
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(72,69): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(60,39): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(64,40): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(68,68): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(72,69): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(72,69): warning C4244: [Fix this horrible networking mess. Function pointers not happy]
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(591,8): warning C4013: 'Error' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(725,25): warning C4244: 'function': conversion from 'long' to 'unsigned char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(726,7): warning C4013: 'vscrn' undefined; assuming extern returning int
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1167,41): warning C4133: 'function': incompatible types - from '__int64 *' to 'LARGE_INTEGER *'
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1167,41): warning C4133: [Todo: handle -netmode <int>]
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1529,43): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1654,17): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1866,38): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+  Generating Code...
+G:\Project\Duke\xDuke\Engine\src\sdl_driver.c(1867,38): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+  mmulti_stable.cpp
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(60,32): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(64,32): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(68,60): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\pragmas.h(72,62): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti_stable.cpp(301,24): warning C4244: '=': conversion from 'long' to 'short', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti_stable.cpp(218,7): warning C4101: 'k': unreferenced local variable
+G:\Project\Duke\xDuke\Engine\src\mmulti_stable.cpp(379,16): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+G:\Project\Duke\xDuke\Engine\src\mmulti_stable.cpp(489,15): warning C4101: 'peer': unreferenced local variable
+G:\Project\Duke\xDuke\Engine\src\mmulti_stable.cpp(753,13): warning C4101: 'i': unreferenced local variable
+  Engine.vcxproj -> G:\Project\Duke\xDuke\Engine\.\DebugVC7\Engine.lib

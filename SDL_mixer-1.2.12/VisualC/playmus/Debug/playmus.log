@@ -1,0 +1,2 @@
+﻿playmus.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  playmus.vcxproj -> g:\Project\Duke\xDuke\SDL_mixer-1.2.12\VisualC\playmus\.\Debug\playmus.exe

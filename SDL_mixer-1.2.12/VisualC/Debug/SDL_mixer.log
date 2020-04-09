@@ -1,0 +1,3 @@
+﻿dynamic_flac.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+     Creating library .\Debug\SDL_mixer.lib and object .\Debug\SDL_mixer.exp
+  SDL_mixer.vcxproj -> g:\Project\Duke\xDuke\SDL_mixer-1.2.12\VisualC\.\Debug\SDL_mixer.dll

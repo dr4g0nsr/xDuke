@@ -1,0 +1,4 @@
+﻿  native_midi_common.c
+  native_midi_win32.c
+  Generating Code...
+  native_midi.vcxproj -> g:\Project\Duke\xDuke\SDL_mixer-1.2.12\VisualC\native_midi\.\Debug\native_midi.lib
